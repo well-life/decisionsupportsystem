@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4_28 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_45 {
+  width: 960px;
+  height: 100%;
+  background: linear-gradient(rgba(0,61,121,1), rgba(255,183,0,1));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_46 {
+  width: 480px;
+  height: 190px;
+  background: url("../images/v4_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 88px;
+  left: 240px;
+  overflow: hidden;
+}
+.v4_47 {
+  width: 960px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 358px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_48 {
+  width: 960px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 620px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_58 {
+  width: 600px;
+  height: 463px;
+  background: url("../images/v5_58.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 390px;
+  left: 1155px;
+  overflow: hidden;
+}
+.v5_50 {
+  width: 83px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v5_54 {
+  width: 143px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 190px;
+  left: 0px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v5_56 {
+  width: 250px;
+  height: 80px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 383px;
+  left: 175px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.v5_57 {
+  width: 251px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 381px;
+  left: 174px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
